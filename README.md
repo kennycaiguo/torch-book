@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41MTGJW) <br>
+
 # Torch 世界
 
 [![PyPI][pypi-badge]][pypi-link]
